@@ -1,6 +1,6 @@
 ### Hi there, I'm Adefela! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Currently, I'm an undergraduate student-athlete at the College of Staten Island, majoring in Computer Science.
+Currently, I'm an undergraduate student-athlete at [CUNY College of Staten Island](https://www.csi.cuny.edu/), majoring in Computer Science.
 
 Deeply immersed in the world of Software Development, my passion lies in the exciting realms of full-stack <br> development, intuitive UI/UX design, the marvels of artificial intelligence, and fascinating human-computer interactions.
 
