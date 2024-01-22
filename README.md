@@ -2,7 +2,7 @@
 
 Currently, I'm an undergraduate student-athlete at [CUNY College of Staten Island](https://www.csi.cuny.edu/), majoring in Computer Science.
 
-Deeply immersed in the world of Software Development, my passion lies in the exciting realms of full-stack <br> development, intuitive UI/UX design, the marvels of artificial intelligence, and fascinating human-computer interactions.
+Deeply immersed in the world of software development, my passion lies in the exciting realms of full-stack <br> development, intuitive UI/UX design, the marvels of artificial intelligence, and fascinating human-computer interactions.
 
 Outside of coding, I play basketball for the College of Staten Island and binge-watch anime and manga.
 
