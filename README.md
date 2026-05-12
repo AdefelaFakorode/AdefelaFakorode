@@ -4,7 +4,7 @@ I'm a software engineer based in Houston, TX.
 
 I currently work at [**Meneses Law**](https://www.meneses.law/), where I build and own full-stack products across the firm's internal platform. From client-facing SPAs and admin dashboards to serverless AWS Lambdas and a component library used across every internal app.
 
-I'm drawn to building things end-to-end — owning a feature from schema contract all the way to the UI — where I can bring together problem-solving, creativity, and design into something that actually holds up in production.
+I'm drawn to building things end-to-end, owning a feature from schema contract all the way to the UI. Where I can bring together problem-solving, creativity, and design into something that actually holds up in production.
 
 Outside of work, I create lifestyle content and vlog my journey through self-development and life as a software engineer on [**YouTube**](https://www.youtube.com/@Adefela). I also enjoy live-streaming gaming sessions on [**Twitch**](https://twitch.tv/adefelaaa) with friends.
 
